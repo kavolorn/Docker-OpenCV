@@ -1,8 +1,8 @@
-# OpenCV image for Docker based on Ubuntu.
+# OpenCV image for Docker based on Debian.
 
 OpenCV build without libgtk2.0++ and ibdc1394 2.x.
 
-Image is based on Ubuntu 14.04 with Python 3.
+Image is based on Debian Jessie with Python 3.
 
 ## References
 
