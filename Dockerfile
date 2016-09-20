@@ -11,7 +11,7 @@ RUN apt-get update \
 		libpng-dev libtiff-dev libjasper-dev
 
 RUN cd \
-	&& wget https://github.com/Itseez/opencv/archive/3.1.0.zip \
+	&& wget https://github.com/opencv/opencv/archive/3.1.0.zip \
 	&& unzip 3.1.0.zip \
 	&& cd opencv-3.1.0 \
 	&& mkdir build \
